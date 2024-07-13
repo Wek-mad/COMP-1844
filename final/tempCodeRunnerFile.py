@@ -1,0 +1,1 @@
+ plt.cm.tab10.colors

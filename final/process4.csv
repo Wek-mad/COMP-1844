@@ -1,0 +1,39 @@
+Line,Direction,Station from (A),Station to (B),Distance (Kms),Un-impeded Running Time (Mins),AM peak (0700-1000) Running Time (Mins),Inter peak (1000 - 1600) Running time (mins)
+Bakerloo ,Southbound,MARYLEBONE,BAKER STREET,0.5,1.17,1.5,1.5
+Bakerloo ,Southbound,BAKER STREET,REGENTS PARK,0.88,1.68,2,2
+Bakerloo ,Southbound,REGENTS PARK,OXFORD CIRCUS,0.87,1.85,2,2
+Bakerloo ,Southbound,OXFORD CIRCUS,PICCADILLY CIRCUS,0.97,1.95,2.48,2.48
+Bakerloo ,Southbound,PICCADILLY CIRCUS,CHARING CROSS,0.55,1.35,1.5,1.5
+Central ,Eastbound,NOTTING HILL GATE,QUEENSWAY,0.69,1.17,1.5,1.5
+Central ,Eastbound,QUEENSWAY,LANCASTER GATE,0.9,1.35,1.5,1.5
+Central ,Eastbound,LANCASTER GATE,MARBLE ARCH,1.2,1.92,2.71,2.5
+Central ,Eastbound,MARBLE ARCH,BOND STREET,0.55,1,1.25,1.25
+Central ,Eastbound,BOND STREET,OXFORD CIRCUS,0.66,1.1,1.5,1.5
+Central ,Eastbound,OXFORD CIRCUS,TOTTENHAM COURT ROAD,0.58,0.98,1.5,1.5
+Victoria,Northbound,VICTORIA,GREEN PARK,1.09,1.95,2,2
+Victoria,Northbound,GREEN PARK,OXFORD CIRCUS,1.14,1.97,2.47,2.02
+Victoria,Northbound,OXFORD CIRCUS,WARREN STREET,0.9,1.53,2.48,2.04
+Victoria,Northbound,WARREN STREET,EUSTON,0.76,1.32,1.5,1.5
+Victoria,Northbound,EUSTON,KINGS CROSS,0.74,1.35,2,2
+Victoria,Northbound,KINGS CROSS,HIGHBURY,2.45,2.87,3,3
+Victoria,Northbound,HIGHBURY,FINSBURY PARK,1.93,2.4,2.97,2.56
+Victoria,Northbound,FINSBURY PARK,SEVEN SISTERS,3.15,4.25,5.34,5.76
+Jubilee ,Eastbound,FINCHLEY ROAD,SWISS COTTAGE,0.61,1.18,1.5,1.5
+Jubilee ,Eastbound,SWISS COTTAGE,ST JOHNS WOOD,0.92,1.52,2,2
+Jubilee ,Eastbound,ST JOHNS WOOD,BAKER STREET,2.06,2.77,3.5,3.5
+Jubilee ,Eastbound,BAKER STREET,BOND STREET,1.66,2.1,2.5,2.5
+Jubilee ,Eastbound,BOND STREET,GREEN PARK,1.37,1.78,2.5,2.5
+Jubilee ,Eastbound,GREEN PARK,WESTMINSTER,1.34,1.87,2.5,2.5
+Jubilee ,Eastbound,WESTMINSTER,WATERLOO,0.96,1.38,2,2
+Jubilee ,Eastbound,WATERLOO,SOUTHWARK,0.44,1.02,1,1
+Jubilee ,Eastbound,SOUTHWARK,LONDON BRIDGE,1.26,1.65,2.5,2.5
+Northern ,Southbound,ARCHWAY,TUFNELL PARK,0.88,1.6,1.5,1.5
+Northern ,Southbound,TUFNELL PARK,KENTISH TOWN,0.8,1.42,1.5,1.5
+Northern ,Southbound,KENTISH TOWN,CAMDEN TOWN,1.15,1.93,3.08,3.08
+Northern ,Southbound,CAMDEN TOWN,EUSTON,1.71,2.95,3.5,3.55
+Northern ,Southbound,KINGS CROSS,ANGEL,1.38,2.18,2.5,2.5
+Northern ,Southbound,ANGEL,OLD STREET,1.44,2.87,3,3
+Northern ,Southbound,OLD STREET,MOORGATE,0.69,1.37,2,1.51
+Northern ,Southbound,MOORGATE,BANK,0.82,1.9,2,2
+Northern ,Southbound,BANK,LONDON BRIDGE,0.69,1.55,2.25,2
+Northern ,Southbound,LONDON BRIDGE,BOROUGH,0.67,1.45,1.5,1.5
