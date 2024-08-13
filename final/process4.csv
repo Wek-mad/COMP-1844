@@ -36,4 +36,6 @@ Northern ,Southbound,ANGEL,OLD STREET,1.44,2.87,3,3
 Northern ,Southbound,OLD STREET,MOORGATE,0.69,1.37,2,1.51
 Northern ,Southbound,MOORGATE,BANK,0.82,1.9,2,2
 Northern ,Southbound,BANK,LONDON BRIDGE,0.69,1.55,2.25,2
-Northern ,Southbound,LONDON BRIDGE,BOROUGH,0.67,1.45,1.5,1.5
+Bakerloo ,Southbound,MARYLEBONE,BAKER STREET,0.5,1.17,1.5,1.5
+Bakerloo ,Northbound,EMBANKMENT,CHARING CROSS,0.37,0.97,1,1
+Bakerloo ,Northbound,WATERLOO,EMBANKMENT,0.71,1.22,1.5,1.5
