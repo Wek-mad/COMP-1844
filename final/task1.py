@@ -46,7 +46,7 @@ nx.draw_networkx_edges(G, positions, width=2, label='Piccadilly Line', edge_colo
 
 # Add node labels
 for node, (x, y, rotation) in label_positions.items():
-    plt.text(x, y, node, fontsize=10, ha="center", va="center", fontweight="bold", rotation=rotation)
+    plt.text(x, y, node, fontsize=10, ha="left", va="center", fontweight="bold", rotation=rotation)
 
 # Add edge labels with distances
 edge_labels = nx.get_edge_attributes(G, "weight")
