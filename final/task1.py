@@ -12,11 +12,11 @@ G.add_nodes_from(nodes)
 
 # Add edges with distances
 edges = [
-    ("Hyde Park Corner", "Green Park", 0.6),
-    ("Green Park", "Piccadilly Circus", 0.4),
-    ("Piccadilly Circus", "Leicester Square", 0.3),
-    ("Leicester Square", "Covent Garden", 0.2),
-    ("Covent Garden", "Holborn", 0.5)
+    ("Hyde Park Corner", "Green Park", 1.0),
+    ("Green Park", "Piccadilly Circus", 0.6),
+    ("Piccadilly Circus", "Leicester Square", 0.5),
+    ("Leicester Square", "Covent Garden", 0.3),
+    ("Covent Garden", "Holborn", 0.6)
 ]
 G.add_weighted_edges_from(edges)
 
@@ -27,7 +27,7 @@ positions = {
     'Piccadilly Circus': (3, 1),
     'Leicester Square': (4.8, 1),
     'Covent Garden': (5.5, 1.3),
-    'Holborn': (7, 2)
+    'Holborn': (6.5, 1.8)
 }
 
 # Define positions for the nodes labels (x, y, rotation)
@@ -37,7 +37,7 @@ label_positions = {
     'Piccadilly Circus': (3, 0.9, 0),
     'Leicester Square': (4.8, 0.9, 0),
     'Covent Garden': (5.5, 1.2, 0),
-    'Holborn': (7, 1.9, 0)
+    'Holborn': (6.5, 1.9, 0)
 }
 
 # Draw the graph
